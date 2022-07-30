@@ -1,15 +1,21 @@
 /* body styling */
 .index {
     background: orange;
-    color: white
+    color: rgb(27, 3, 50)
 }
 
 .lasagna {
-
+    background: pink;
+    color: purple;
 }
 
 .friedchicken {
+    background: brown;
+    color: grey;
+}
 
+.mangodrink {
+    background: ;
 }
 
 
