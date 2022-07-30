@@ -1,13 +1,14 @@
 /* body styling */
-index {
+.index {
+    background: orange;
+    color: white
+}
+
+.lasagna {
 
 }
 
-lasagna {
-
-}
-
-friedchicken {
+.friedchicken {
 
 }
 
