@@ -1,35 +1,41 @@
-/* body styling */
-* {
-
-}
+/* index.html styling */
 .index {
     background: rgb(221, 194, 144);
     color: rgb(126, 84, 7);
     font-family: 'Courier New', Courier, monospace;
 }
 
+.index.list {
+}
+
+.index a {
+    text-decoration: none;
+    color: rgb(126, 84, 7);
+}
+
+.index a:hover {
+    background: rgb(126, 84, 7);
+    color: rgb(51, 45, 35);
+}
+
+/* lasagna.html styling */
 .lasagna {
     background: pink;
     color: purple;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+/* friedchicken.html styling */
 .friedchicken {
     background: rgb(227, 151, 151);
     color: brown;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+/* mangodrink.html styling */
 .mangodrink {
     background: rgb(197, 197, 124);
     color: rgb(106, 106, 6);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-
-
-/* lasagna file */
-
-/* friedchicken file */
-
-/* mangodrink file */
