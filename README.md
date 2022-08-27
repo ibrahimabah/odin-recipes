@@ -7,4 +7,3 @@ All pages will have similar structures of a main heading, image and list of ingr
 ### Reference
 Lesson Reference | [Foundation Recipe Project](https://www.theodinproject.com/lessons/foundations-recipes)
 
-Live Preview | [Odin Recipes](https://ibrahimabah.github.io/odin-recipes/)
