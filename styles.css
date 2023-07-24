@@ -1,20 +1,35 @@
-/* index.html styling */
-.index {
-    background: rgb(221, 194, 144);
-    color: rgb(126, 84, 7);
+body {
+    background: #c4a978;
+    color: black;
+    text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
 
-.index.list {
+/* index.html styling */
+.index {
+    background: rgb(154, 111, 31);
+    margin: 16px auto;
+    padding: 16px;
 }
 
-.index a {
+.index .h1 {
+    background: rgb(244, 128, 27);
+    margin: 8px auto;
+    padding: 8px;
+}
+
+/* links */
+.links a {
+    background-color: rgb(90, 142, 142);
+    margin: 8px auto;
+    padding: 16px;
     text-decoration: none;
-    color: rgb(126, 84, 7);
+    display: block;
+    color: black;
 }
 
-.index a:hover {
-    background: rgb(126, 84, 7);
+.links a:hover {
+    background: rgb(189, 157, 97);
     color: rgb(51, 45, 35);
 }
 
@@ -22,7 +37,6 @@
 .lasagna {
     background: pink;
     color: purple;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 /* friedchicken.html styling */
@@ -38,4 +52,5 @@
     color: rgb(106, 106, 6);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
 
